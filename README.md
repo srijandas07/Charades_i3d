@@ -1,5 +1,6 @@
-#I3D for Charades on Keras
-Usage:
+# I3D for Charades dataset on Keras
+
+## Usage
 
 Train:
 
